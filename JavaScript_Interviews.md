@@ -72,3 +72,57 @@ JavaScript topics you need to master to crack amazing Frontend Interviews -
 26. Progressive Web Apps (PWAs): Understand PWA concepts and service workers.
 
 27. Web Performance: Optimize your code for speed and efficiency.
+
+
+
+*****
+
+Most Asked Interview Questions
+=======================
+1. What is the difference between var, let, and const?
+2. What is the purpose of the this keyword in JavaScript?
+3. How does JavaScript handle asynchronous operations?
+4. What is a closure, and how does it work in JavaScript?
+5. Explain the difference between null and undefined.
+6. What are data types in JavaScript, and how are they classified?
+7. What is the difference between == and === in JavaScript?
+8. What is hoisting in JavaScript?
+9. What is an IIFE (Immediately Invoked Function Expression)?
+10. What is event delegation in JavaScript?
+11. Explain the difference between for loop and forEach() method in JavaScript.
+12. What are template literals in JavaScript? How are they used?
+13. What are arrow functions, and how do they differ from traditional functions?
+14. What is the difference between function expression and function declaration?
+15. What are JavaScript promises, and how do they work?
+16. How can you handle errors in JavaScript?
+17. What is a callback function in JavaScript, and how is it used?
+18. How does the event loop work in JavaScript?
+19. What is the difference between synchronous and asynchronous programming in JavaScript?
+20. What is the difference between map() and forEach() in JavaScript?
+21. What is the spread operator and rest parameter in JavaScript, and how is it used?
+22. What is the reduce() method, and how is it used in JavaScript?
+23. How do closures help with data encapsulation in JavaScript?
+24. What is the purpose of the setTimeout() and setInterval() function in JavaScript?
+25. What are the methods for creating objects in JavaScript?
+26. How does Object.freeze() work in JavaScript?
+27. What is destructuring in JavaScript, and how does it work?
+28. What is the purpose of Object.assign() in JavaScript?
+29. How does JavaScript handle type coercion?
+30. What is the concept of prototype inheritance in JavaScript?
+31. What are WeakMap and WeakSet, and how do they differ from Map and Set?
+32. What is the async & await syntax, and how does it work in JavaScript?
+33. What is the difference between call(), apply(), and bind() in JavaScript?
+34. How do JavaScript modules work (import/export)?
+35. What is a service worker, and how does it function in JavaScript?
+36. What is the new keyword in JavaScript, and how does it work?
+37. Explain the concept of memory management in JavaScript.
+38. What is the event delegation pattern in JavaScript, and why is it useful?
+39. How can you optimize performance when working with large datasets in JavaScript?
+40. What are the different ways to create a promise in JavaScript?
+41. What is the setInterval() method, and how is it different from setTimeout()?
+42. What is the purpose of Promise.all() in JavaScript?
+43. How can you prevent a memory leak in JavaScript?
+44. How does JavaScript handle CORS issues?
+45. What is the difference between localStorage, sessionStorage, and cookies in JavaScript?
+
+https://www.linkedin.com/posts/activity-7294099318905454592-ypRE?utm_source=share&utm_medium=member_desktop
