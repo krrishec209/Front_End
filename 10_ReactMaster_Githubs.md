@@ -80,4 +80,14 @@ They’ll provide resources for both tech and soft skills, conduct company-speci
 
 PS: Added some more helpful resources in the
 
+➤ React Cheat Sheets:
+
+1. https://devhints.io/react
+2. https://lnkd.in/duVuBr-c
+3. https://lnkd.in/dT-eZqEH
+4. https://lnkd.in/dgN_2xiU
+
+Ultimate React.js Cheat Sheet
+Components Class Component Syntax class ExampleClassComponent extends React.Component { render() { return Example Class Component ; } }
+
 https://www.linkedin.com/posts/sakshi-gawande_list-of-resources-that-will-guarantee-you-activity-7313771685982232576-gN7B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARSzbgBGEbWHnTkxyPnkFaeZcnK-pW0lqg
