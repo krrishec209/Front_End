@@ -166,3 +166,38 @@ Follow on Instagram : https://lnkd.in/gXTrcaKP
 https://www.linkedin.com/in/saikrishnanangunuri/
 
 https://www.linkedin.com/posts/saikrishnanangunuri_javascript-javascriptdeveloper-reactjs-activity-7294707528553177088-ZwHK?utm_source=share&utm_medium=member_desktop
+
+
+********************
+
+One of the most powerful methods for array manipulation.
+
+𝗿𝗲𝗱𝘂𝗰𝗲() is extremely versatile and can be used for more than just summing values.
+
+It can transform arrays into objects, strings, numbers, etc.
+
+Method: reduce()
+
+Today, I solved 15 different problems using the reduce() method in JavaScript. Here's what I worked on:
+
+1. Summing Values
+2. Counting Occurrences
+3. Flattening Arrays 
+4. Grouping Data by Property
+5. Removing Duplicates
+6. Accumulative Operations (e.g., product, concatenation)
+7. Finding Maximum/Minimum Values
+8. Calculating Average (e.g., grade, score)
+9. Converting Array to Object (e.g., key-value pairs)
+10. Building a Lookup Table (mapping values)
+11. Running Total / Cumulative Sum
+12. Merging Multiple Arrays into One
+13. Transforming Array into a Single String (e.g., CSV format)
+14. Calculating the Product of All Numbers
+15 . Tracking Changes or Progress (e.g., accumulating steps)
+
+At the end of the day, this is the best way to revise or learn a topic.
+
+𝗦𝗼𝗹𝘃𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀, 𝗮𝗽𝗽𝗹𝘆 𝘄𝗵𝗮𝘁 𝘆𝗼𝘂 𝗹𝗲𝗮𝗿𝗻, 𝗮𝗻𝗱 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝘆𝗼𝘂𝗿𝘀𝗲𝗹𝗳. 
+
+https://www.linkedin.com/posts/sakshi-gawande_one-of-the-most-powerful-methods-for-array-activity-7332616483321073664-jFwA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARSzbgBGEbWHnTkxyPnkFaeZcnK-pW0lqg
