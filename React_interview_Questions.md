@@ -101,3 +101,39 @@ Most important React questions:
 💡 Follow me Yangshun Tay and my company GreatFrontEnd for more
 
 https://www.linkedin.com/posts/yangshun_i-passed-front-end-interviews-at-meta-google-activity-7330824884316504066-bysu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARSzbgBGEbWHnTkxyPnkFaeZcnK-pW0lqg
+
+
+****************
+
+Very helpful for cracking frontend hashtag#reactjs hashtag#angular machine coding interviews
+
+Great Frontend Dev: https://lnkd.in/g3p4aGgF
+Frontend Expert: https://lnkd.in/gf5SX6nz
+JS Challenger: https://lnkd.in/giED9wNC
+Mister DA: https://lnkd.in/gJDeXZVB
+React Challenges: https://lnkd.in/gxF2N5RP
+Daily React Problems: https://lnkd.in/gCzDN7Un
+Codewars: https://www.codewars.com/
+Codedamn: https://lnkd.in/gX66d2e2
+Devtools Tech: https://lnkd.in/g62Q2D_Q
+Frontend Mentor: https://lnkd.in/gxqWe7Ru
+Exercism: https://lnkd.in/gaNuJCHU
+Learners Bucket: https://lnkd.in/g6RqJJ7Q
+FrontendPro: https://lnkd.in/gX-3S2dC
+Frontend Lead: https://frontendlead.com/
+Big Frontend Dev: https://bigfrontend.dev/
+Leetcode: https://lnkd.in/gXQ88bAB
+CSS Battle: https://cssbattle.dev/
+Frontend Hire: https://lnkd.in/g-aR7mDy
+Clientside Dev: https://lnkd.in/gmpabwDf
+Frontend Churn: https://lnkd.in/gK23XjJG
+Reacterry: https://www.reacterry.com/
+Edabit: https://lnkd.in/g4C8_jMM
+
+Get ebook with (detailed 175 ques = 50+ Reactjs Frequent Ques & Answers, 90+ frequently asked interview questions and answers, 25+ Output based ques & ans, 25+ Coding Questions & ans)
+𝐄𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤: https://lnkd.in/gJMmH-PF
+
+Interview Guidance: https://lnkd.in/gr9PCuxd
+Follow on Instagram : https://lnkd.in/g-iSTsRd
+
+https://www.linkedin.com/posts/saikrishnanangunuri_reactjs-angular-javascript-activity-7335638442380300289-WB1b?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARSzbgBGEbWHnTkxyPnkFaeZcnK-pW0lqg
